@@ -4,4 +4,3 @@ for line in fhand:
     count = count + 1
 print('Line Count:', count)
 
-lo que sea
